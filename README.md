@@ -1,3 +1,5 @@
+<img width="1470" alt="Screenshot 2024-10-31 at 2 33 34 PM" src="https://github.com/user-attachments/assets/d99b0ca1-a79f-444a-a94e-08e0756f3770">
+
 # InkBox-A-Movie-Reviewing-Application
 Build with JSP-SPRINGBOOT-BOOTSTRAP
 
