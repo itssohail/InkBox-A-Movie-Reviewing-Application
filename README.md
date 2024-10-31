@@ -42,3 +42,10 @@ To run the project locally:
 
 Note: If you wish to connect a database, ensure you update the MovieRepository class to connect to your chosen database.
 
+<img width="1470" alt="Screenshot 2024-10-31 at 2 33 34 PM" src="https://github.com/user-attachments/assets/b59a2b58-8b11-4b57-a6d3-e4994a874605">
+<img width="1470" alt="Screenshot 2024-10-31 at 2 33 40 PM" src="https://github.com/user-attachments/assets/53acb046-cf94-4777-9b1e-1752d41eb4cb">
+<img width="1470" alt="Screenshot 2024-10-31 at 2 33 50 PM" src="https://github.com/user-attachments/assets/547d7f34-3ebc-498c-800e-a1ead7b77b5d">
+<img width="1470" alt="Screenshot 2024-10-31 at 2 33 57 PM" src="https://github.com/user-attachments/assets/d8198e35-6a13-4fc7-a712-30599a47822a">
+<img width="1470" alt="Screenshot 2024-10-31 at 2 34 05 PM" src="https://github.com/user-attachments/assets/7ee59c89-e514-4e80-b65d-f1bf2b69238b">
+
+
